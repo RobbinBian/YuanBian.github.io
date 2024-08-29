@@ -32,7 +32,7 @@ I graduated with honors from Tianjin Normal University, advised by Dr. Lizhi Xie
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to Nature Astronomy</div><img src='images/m-ZH_1.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to Nature Astronomy</div><img src='images/m-ZH_1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
